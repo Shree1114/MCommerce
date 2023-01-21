@@ -78,15 +78,3 @@ For contributions please read the [CODESTYLE](https://github.com/oss2019/instigo
 
 ## Commit Style
 For writing commit messages please read the [COMMITSTYLE](https://github.com/oss2019/instigo-android/blob/master/Commit-Style.md) carefully. Kindly adhere to the guidelines. Pull requests not matching the style will be rejected.  
-
-## Communication
-
-Our other sources of communications include
-
-- Email : sonusouravdx001@gmail.com    
-For more information, please refer to [My personal Website](https://sonusourav.github.io/).
-
-
-## LEGAL & DISCLAIMER
-
-Please refer to [LICENSE](https://github.com/oss2019/instigo-android/blob/master/LICENSE.md).   
